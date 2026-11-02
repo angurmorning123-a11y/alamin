@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">খরচ ট্র্যাকার</string><string name="dashboard">ড্যাশবোর্ড</string>
+    <string name="expenses">খরচ</string><string name="summary">সারাংশ</string><string name="settings">সেটিংস</string>
+    <string name="monthly_total">এই মাসের মোট</string><string name="budget_usage">বাজেট ব্যবহার</string>
+    <string name="recent_expenses">সাম্প্রতিক খরচ</string><string name="add_expense">খরচ যোগ করুন</string>
+    <string name="amount">পরিমাণ (৳)</string><string name="date">তারিখ (YYYY-MM-DD)</string>
+    <string name="category">বিভাগ</string><string name="note">নোট (ঐচ্ছিক)</string>
+    <string name="save">সংরক্ষণ</string><string name="cancel">বাতিল</string>
+    <string name="edit">সম্পাদনা</string><string name="delete">মুছুন</string>
+    <string name="delete_confirm">এই খরচটি মুছবেন?</string>
+    <string name="empty_expenses">এখনো কোনো খরচ নেই। প্রথম খরচ যোগ করুন।</string>
+    <string name="monthly_budget">মাসিক বাজেট</string><string name="category_budgets">বিভাগভিত্তিক সীমা</string>
+    <string name="language">ভাষা</string><string name="english">English</string><string name="bengali">বাংলা</string>
+    <string name="theme">থিম</string><string name="system">সিস্টেম ডিফল্ট</string>
+    <string name="light">লাইট</string><string name="dark">ডার্ক</string>
+    <string name="export_backup">ব্যাকআপ রপ্তানি (JSON)</string><string name="import_backup">ব্যাকআপ আমদানি (JSON)</string>
+    <string name="previous_month">আগের মাস</string><string name="this_month">এই মাস</string>
+    <string name="increase">বৃদ্ধি</string><string name="decrease">হ্রাস</string><string name="no_change">পরিবর্তন নেই</string>
+    <string name="over_budget">বাজেট অতিক্রম করেছে</string><string name="budget_warning">বাজেটের ৮০%%-এর বেশি ব্যবহার হয়েছে</string>
+    <string name="food">খাবার</string><string name="transport">যাতায়াত</string><string name="bills">বিল</string>
+    <string name="shopping">কেনাকাটা</string><string name="entertainment">বিনোদন</string>
+    <string name="health">স্বাস্থ্য</string><string name="other">অন্যান্য</string>
+    <string name="save_budget">বাজেট সংরক্ষণ</string><string name="budget_amount">সীমা (৳)</string>
+    <string name="backup_success">ব্যাকআপ সম্পন্ন</string><string name="import_success">ব্যাকআপ আমদানি হয়েছে</string>
+    <string name="invalid_amount">সঠিক ধনাত্মক পরিমাণ লিখুন</string><string name="invalid_date">সঠিক তারিখ লিখুন</string>
+</resources>

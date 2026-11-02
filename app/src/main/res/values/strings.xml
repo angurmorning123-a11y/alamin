@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="dashboard">Dashboard</string><string name="expenses">Expenses</string>
+    <string name="summary">Summary</string><string name="settings">Settings</string>
+    <string name="monthly_total">Monthly total</string><string name="budget_usage">Budget usage</string>
+    <string name="recent_expenses">Recent expenses</string><string name="add_expense">Add expense</string>
+    <string name="amount">Amount (৳)</string><string name="date">Date (YYYY-MM-DD)</string>
+    <string name="category">Category</string><string name="note">Note (optional)</string>
+    <string name="save">Save</string><string name="cancel">Cancel</string>
+    <string name="edit">Edit</string><string name="delete">Delete</string>
+    <string name="delete_confirm">Delete this expense?</string>
+    <string name="empty_expenses">No expenses yet. Add your first one.</string>
+    <string name="monthly_budget">Monthly budget</string><string name="category_budgets">Category limits</string>
+    <string name="language">Language</string><string name="english">English</string>
+    <string name="bengali">বাংলা</string><string name="theme">Theme</string>
+    <string name="system">System default</string><string name="light">Light</string><string name="dark">Dark</string>
+    <string name="export_backup">Export backup (JSON)</string><string name="import_backup">Import backup (JSON)</string>
+    <string name="previous_month">Previous month</string><string name="this_month">This month</string>
+    <string name="increase">Increase</string><string name="decrease">Decrease</string><string name="no_change">No change</string>
+    <string name="over_budget">Budget exceeded</string><string name="budget_warning">Budget usage is over 80%%</string>
+    <string name="food">Food</string><string name="transport">Transport</string><string name="bills">Bills</string>
+    <string name="shopping">Shopping</string><string name="entertainment">Entertainment</string>
+    <string name="health">Health</string><string name="other">Other</string>
+    <string name="save_budget">Save budget</string><string name="budget_amount">Limit (৳)</string>
+    <string name="backup_success">Backup completed</string><string name="import_success">Backup imported</string>
+    <string name="invalid_amount">Enter a positive amount</string><string name="invalid_date">Enter a valid date</string>
+</resources>
